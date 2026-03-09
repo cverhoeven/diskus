@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Cross-platform disk analyzer</strong>
+  <strong>Cross-platform disk analyzer</strong> · Windows app, Mac & Linux coming soon
 </p>
 
 <p align="center">
@@ -19,7 +19,8 @@
 
 <p align="center">
   <a href="https://github.com/cverhoeven/diskus/releases/latest"><img src="https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge" alt="Download" /></a>
-  <img src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS-lightgrey?style=flat-square" alt="Platform" />
+  <img src="https://img.shields.io/badge/platform-Windows-lightgrey?style=flat-square" alt="Platform" />
+  <img src="https://img.shields.io/badge/macOS%20%26%20Linux-coming%20soon-orange?style=flat-square" alt="Coming soon" />
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License" />
 </p>
 
@@ -31,10 +32,11 @@
 
 👉 **[View & download releases](https://github.com/cverhoeven/diskus/releases)**
 
-| Platform | Format |
-|----------|--------|
-| **Windows** | Installer (.exe) or Portable (.exe) |
-| **macOS** | DMG or ZIP |
+| Platform | Status | Format |
+|----------|--------|--------|
+| **Windows** | ✅ Available | Installer (.exe) or Portable (.exe) |
+| **macOS** | 🔜 Coming soon | — |
+| **Linux** | 🔜 Coming soon | — |
 
 > The first scan of a large drive may take a few seconds.
 
@@ -48,11 +50,12 @@
 
 ## Features
 
-- **Drive selection** – See all scannable drives (hard disks, SSDs, USB sticks) at a glance
+- **Drive selection** – Dropdown with all scannable drives (hard disks, SSDs, USB sticks), usage and icons
 - **Sunburst diagram** – Interactive circular visualization of folder sizes, zoomable
 - **File list & sidebar** – Resizable sidebar with sorting by name or size
 - **Trash collector** – Collect files and move them to the system trash in one action
 - **Context menu** – "Show in Explorer" or "Move to trash"
+- **Language** – German and English (language selector in header)
 
 ---
 
@@ -84,7 +87,7 @@ On startup, you see all available drives. Select a drive to start the scan.
 
 ### 4. Open in Explorer
 
-- **Right-click** → **Show in Explorer** – Opens the folder in Windows Explorer or Finder.
+- **Right-click** → **Show in Explorer** – Opens the folder in Windows Explorer (macOS/Finder when available).
 
 ---
 
@@ -93,9 +96,10 @@ On startup, you see all available drives. Select a drive to start the scan.
 | Area | Technology |
 |------|------------|
 | Desktop | Electron |
-| Frontend | Angular |
+| Frontend | Angular 21 |
 | Visualization | D3.js |
 | Icons | Lucide |
+| i18n | Transloco (DE/EN) |
 
 ---
 
