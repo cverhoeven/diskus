@@ -36,6 +36,11 @@
 
 ---
 
+## Tip
+
+**Feel free to leave me a tip, if you like Diskus <3**
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B11VPEWW)
+
 ## Features
 
 - **Drive selection** – See all scannable drives (hard disks, SSDs, USB sticks) at a glance
