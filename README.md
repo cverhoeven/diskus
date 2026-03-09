@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <a href="https://diskus-app.com/">diskus-app.com</a>
+</p>
+
+<p align="center">
   Visualize your disk usage with interactive sunburst diagrams.<br>
   Find large folders, move files to the trash with precision.
 </p>
