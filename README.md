@@ -110,5 +110,5 @@ MIT © Carlo Verhoeven
 ---
 
 <p align="center">
-  Made with ❤️ in Cologne
+  Made with ❤️ in Cologne, Germany
 </p>
