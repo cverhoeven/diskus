@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Cross-platform disk analyzer</strong> · Windows app, Mac & Linux coming soon
+  <strong>Free cross-platform disk analyzer</strong> · Windows app, Mac & Linux coming soon
 </p>
 
 <p align="center">
