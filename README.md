@@ -31,7 +31,7 @@
 
 ## Why I built Diskus
 
-I was looking for a **clean, easy-to-use** solution for Windows (greetings to Mac users - you're already well served). I wanted something that makes it fun to explore your storage, not another dull analyzer. That's how Diskus was born: clear visuals, smooth interactions, and a focus on great UX ❤️
+I was looking for a **clean, easy-to-use** solution for Windows (greetings to macOS users - you're already well served). I wanted something that makes it fun to explore your storage, not another dull analyzer. That's how Diskus was born: clear visuals, smooth interactions, and a focus on great UX ❤️
 
 ---
 
