@@ -18,8 +18,6 @@
   Filters, settings, and localization (DE/EN).
 </p>
 
----
-
 <p align="center">
   <a href="https://github.com/cverhoeven/diskus/releases/latest"><img src="https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge" alt="Download" /></a>
   <img src="https://img.shields.io/badge/platform-Windows-lightgrey?style=flat-square" alt="Platform" />
@@ -68,6 +66,18 @@ I was looking for a **clean, easy-to-use** solution for Windows (greetings to ma
 - **Trash collector** - Collect items via context menu or drag & drop, then move all to system trash in one go; optional short-time undo
 - **Context menu** - Show in Explorer, open file / Quick Look (macOS), add to trash collector
 - **Language** - German and English; switch on the intro screen
+
+---
+
+## Screenshots
+
+| Onboarding | Drive overview – Tiles | Drive overview – List |
+|------------|-------------------------|------------------------|
+| ![Onboarding](screenshots/diskus_welcome.png) | ![Drive overview – Tiles](screenshots/diskus_overview.png) | ![Drive overview – List](screenshots/diskus_overview_list.png) |
+
+| Sunburst | Settings | Trash collector |
+|----------|----------|-----------------|
+| ![Sunburst](screenshots/diskus_sunburst.png) | ![Settings](screenshots/diskus_settings.png) | ![Trash collector](screenshots/diskus_trash.png) |
 
 ---
 
